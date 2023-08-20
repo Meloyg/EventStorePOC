@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdqYN54YUyDI2eufTLrliDvgRIxRbKx25SI/YHtT4d7z8r+ndjh0hTuUkZ8EHbw+n+fnbXY2q9O1tY3mnTjOfg==",
+  "success": true,
+  "projectFilePath": "C:\\demo\\EventStorePOC\\EventStorePOC\\EventStorePOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melo.guan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
